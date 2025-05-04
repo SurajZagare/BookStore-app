@@ -1,0 +1,1 @@
+This project showcases how to build a fully functional, dynamic, and responsive Book Store web application using the MERN Stack — MongoDB, Express.js, React.js, and Node.js. Users can browse, search, and interact with a collection of books through a clean and modern UI. The application supports both frontend and backend functionalitie
